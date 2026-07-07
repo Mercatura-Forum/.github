@@ -32,4 +32,4 @@ Your users sign in with a **passkey** — no wallets, no seed phrases, no extens
 
 ---
 
-*Maintained by the Menese DeFi Team.*
+*Maintained by the Thebes Core Team.*
