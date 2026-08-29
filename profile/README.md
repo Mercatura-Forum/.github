@@ -8,6 +8,10 @@ applied R&D in Web3, AI, and robotics.
 
 ## Thebes — a Layer 1 where the whole application lives on-chain
 
+### 🌐 [thebesprotocol.com](https://thebesprotocol.com) — the official site
+
+Distributed cloud hosting for Egypt and the GCC. Everything below runs on it.
+
 Frontend, backend, and data — replicated across every validator, finalized by a
 Byzantine quorum, signed under post-quantum certificates on the consensus
 critical path. No servers, no cloud bill, nothing to take down.
@@ -16,6 +20,7 @@ critical path. No servers, no cloud bill, nothing to take down.
 
 | Step | Where | What you get |
 | --- | --- | --- |
+| 0. Start | **[thebesprotocol.com](https://thebesprotocol.com)** | The product site — what Thebes is, what it costs, and how to put a site on it |
 | 1. Understand | [Thebes-Protocol-](https://github.com/Mercatura-Forum/Thebes-Protocol-) | The hub: homepage, technical spec, docs, and small starters (Motoko **and** Rust) |
 | 2. See it | [The example library](https://github.com/Mercatura-Forum/Thebes-Protocol-/blob/main/examples/README.md) | Twelve full-stack applications, each one live on-chain — store, chat, CRM, finance, medical imaging, ISO 20022 banking, and more |
 | 3. Build | [thebes-sdk](https://github.com/Mercatura-Forum/thebes-sdk) + [thebes-lib](https://github.com/Mercatura-Forum/thebes-lib) | The frontend SDK (`@thebes/sdk`: boundary client, React hooks, passkey gate) and the Motoko backend library (Admin, Users, Pagination, Invoices) |
