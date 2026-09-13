@@ -4,12 +4,12 @@
 hold up when the institutions around them cannot.** Cairo-based venture studio; applied R&D in
 Web3, AI and robotics.
 
-**Everything in this organisation is open source: one of MENA's largest institutionally
-developed open-source deep-tech initiatives, and one of the region's most extensive integrated
-sovereign software stacks.** The Thebes substrate, its developer tools, the example
-applications and the financial products below are all part of the Forum: one body of work, one
-licence (Apache 2.0), one team attribution, and every repository meant to be read, run and
-built on by anyone.
+**Everything in this organisation is part of the Forum, an initiative by Mercatura Forum: one
+of MENA's largest institutionally developed open-source deep-tech initiatives, and one of the
+region's most extensive integrated sovereign software stacks.** The Thebes substrate, its
+developer tools, the example applications and the financial products below are one body of
+work, under one licence (Apache 2.0) and one team attribution, and every repository is meant
+to be read, run and built on by anyone.
 
 ---
 
