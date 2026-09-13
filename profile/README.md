@@ -1,8 +1,14 @@
 # Mercatura Forum
 
-**We build sovereign infrastructure: chains, wallets, and settlement systems that
-hold up when the institutions around them cannot.** Cairo-based venture studio;
-applied R&D in Web3, AI, and robotics.
+**We build sovereign infrastructure: chains, wallets, settlement and financial systems that
+hold up when the institutions around them cannot.** Cairo-based venture studio; applied R&D in
+Web3, AI and robotics.
+
+**Everything in this organisation is open source, and it is being built as the largest
+open-source initiative in the MENA region.** The Thebes substrate, its developer tools, the
+example applications and the financial products below are all part of the Forum: one body of
+work, one licence (Apache 2.0), one team attribution, and every repository meant to be read,
+run and built on by anyone.
 
 ---
 
@@ -48,4 +54,4 @@ architecture document. Apache 2.0.
 
 ---
 
-*Maintained by the Thebes Core Team.*
+*Maintained by the Thebes Core Team. Open to contributors: open an issue on the repository concerned.*
