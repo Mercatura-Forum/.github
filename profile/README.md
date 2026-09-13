@@ -35,6 +35,16 @@ critical path. No servers, no cloud bill, nothing to take down.
 
 Your users sign in with a **passkey**: no wallets, no seed phrases, no extensions.
 
+## How releases are made
+
+A first public release of a Forum repository arrives as a single commit, and that is by design.
+Each product is built in a private tree through iteration, test batteries, oracle comparison and
+review, and the public repository is cut from it clean: the source, the tests, the design and
+verification records, and nothing of the lab work behind them. What is published is the result
+that reproduces, so that contributors build on a verified base rather than on a history of
+experiments. From the first release onward, the public repository is the place where work
+continues in the open: issues, pull requests and releases happen there.
+
 ## Products built on Thebes
 
 Financial systems that run as smart contracts, each with a provable record, a test battery and an
@@ -45,6 +55,7 @@ architecture document. Apache 2.0.
 | **[Manticore](https://github.com/Mercatura-Forum/Manticore)** | Core banking and payments: a provable double-entry journal, maker-checker on every money-moving act, ISO 20022 and Mojaloop payments, certified reports |
 | **[Solari](https://github.com/Mercatura-Forum/Solari)** | An audit system for audit firms: a hash-chained engagement trail, journal-entry testing, passkey sign-offs, figures a third party can verify |
 | **[Tachyon](https://github.com/Mercatura-Forum/Tachyon)** | Delivery-versus-payment settlement: two-phase escrow, both-or-neither settlement, a batch matching engine, certified receipts |
+| **[menese-redemption](https://github.com/Mercatura-Forum/menese-redemption)** | The MENES to SNS redemption canister on the Internet Computer: liquid tokens for wallet holders, neurons for stakers, no admin, no mint |
 
 ## Also here
 
