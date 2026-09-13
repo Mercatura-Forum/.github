@@ -55,7 +55,6 @@ architecture document. Apache 2.0.
 | **[Manticore](https://github.com/Mercatura-Forum/Manticore)** | Core banking and payments: a provable double-entry journal, maker-checker on every money-moving act, ISO 20022 and Mojaloop payments, certified reports |
 | **[Solari](https://github.com/Mercatura-Forum/Solari)** | An audit system for audit firms: a hash-chained engagement trail, journal-entry testing, passkey sign-offs, figures a third party can verify |
 | **[Tachyon](https://github.com/Mercatura-Forum/Tachyon)** | Delivery-versus-payment settlement: two-phase escrow, both-or-neither settlement, a batch matching engine, certified receipts |
-| **[menese-redemption](https://github.com/Mercatura-Forum/menese-redemption)** | The MENES to SNS redemption canister on the Internet Computer: liquid tokens for wallet holders, neurons for stakers, no admin, no mint |
 
 ## Also here
 
